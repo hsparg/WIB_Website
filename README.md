@@ -14,4 +14,4 @@ Technicial things that need done:
 <li> More comments need to be added EVERYWHERE! </li>
 <ol>
 
-<img src="oldimages/images/wibBlack.jpg"/>
+<img src="oldimages/wibBlack.jpg"/>
