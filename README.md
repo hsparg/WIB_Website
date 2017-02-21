@@ -9,7 +9,7 @@ Things that need to be done:
 
 Technicial things that need done: 
 <ol>
-<li> Code up the code</li>
+<li> Clean up the code</li>
 <li> Contact page has errors</li>
 <li> More comments need to be added EVERYWHERE! </li>
 <ol>
