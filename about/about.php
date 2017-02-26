@@ -76,7 +76,7 @@
                         <div id="content1" class="panel-collapse in" style="height: auto;">
                             <div class="panel-body">
                                 <div>
-                                   <p>A new Mission Statement is in the works!</p>
+                                   <p>WIB is an organization revolving around the composition of TTU students dedicated to professional relationship development, cultivating a means of personal growth, and attain future opportunities within the business community.</p>
                                 </div>
                             </div>
                             <!-- /.panel-body -->
